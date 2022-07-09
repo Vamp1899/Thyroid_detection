@@ -230,7 +230,7 @@ class Prediction_Data_validation:
                     splitAtDot = (re.split('_', splitAtDot[0]))
                     if len(splitAtDot[1]) == LengthOfDateStampInFile:
                         if len(splitAtDot[2]) == LengthOfTimeStampInFile:
-                            shutil.copy("Prediction_files_tally/" + filename, "Prediction_Raw_Files_Validated/Good_Raw")
+                            shutil.copy("Prediction_Batch_files/" + filename, "Prediction_Raw_Files_Validated/Good_Raw")
                             self.logger.log(f,"Valid File name!! File moved to GoodRaw Folder :: %s" % filename)
 
                         else:
