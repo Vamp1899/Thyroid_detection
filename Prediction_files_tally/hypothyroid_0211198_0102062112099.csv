@@ -1,0 +1,6 @@
+age,sex,on_thyroxine,query_on_thyroxine,on_antithyroid_medication,sick,pregnant,thyroid_surgery,I131_treatment,query_hypothyroid,query_hyperthyroid,lithium,goitre,tumor,hypopituitary,psych,TSH_measured,TSH,T3_measured,T3,TT4_measured,TT4,T4U_measured,T4U,FTI_measured,FTI,TBG_measured,TBG,referral_source
+65,F,f,f,f,f,f,f,f,t,f,f,f,f,f,f,t,12,f,?,t,99,t,1.14,t,87,f,?,other
+42,?,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,0.02,t,2.6,t,138,t,1.58,t,88,f,?,STMW
+70,M,f,f,f,t,f,f,f,f,f,f,f,f,f,f,t,0.6,t,2.6,t,144,t,1.2,t,120,f,?,SVHD
+54,F,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,19,t,2.2,t,83,t,1.03,t,81,f,?,SVHC
+65,M,f,f,f,f,f,f,f,f,f,f,f,f,f,f,t,14.8,t,1.5,t,61,t,0.85,t,72,f,?,SVI
